@@ -13,7 +13,9 @@ const TextInputAtom: React.FC<TextInputAtomProps> = props => {
           borderWidth: 1,
           padding: 10,
           margin: 5,
+          color: '#000',
         }}
+        placeholderTextColor="#000"
         {...props}
       />
     </View>
