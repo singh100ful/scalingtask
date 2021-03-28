@@ -1,0 +1,62 @@
+{
+    "products": [
+        {
+            "id": 1001,
+            "name": "Iphone XR",
+            "src": "https://images-na.ssl-images-amazon.com/images/I/71E5zB1qbIL._SX522_.jpg",
+            "originalPrice": 40000,
+            "price": 30000,
+            "quantity": 10
+        },
+        {
+            "id": 1002,
+            "name": "Iphone X",
+            "src": "https://drop.ndtv.com/TECH/product_database/images/913201720152AM_635_iphone_x.jpeg",
+            "originalPrice": 50000,
+            "price": 35000,
+            "quantity": 10
+        },
+        {
+            "id": 1003,
+            "name": "Iphone 12",
+            "src": "https://images-na.ssl-images-amazon.com/images/I/71ZOtNdaZCL._SX522_.jpg",
+            "originalPrice": 90000,
+            "price": 70000,
+            "quantity": 10
+        },
+        {
+            "id": 1004,
+            "name": "Iphone 12 mini",
+            "src": "https://images-na.ssl-images-amazon.com/images/I/71E5zB1qbIL._SX522_.jpg",
+            "originalPrice": 80000,
+            "price": 65000,
+            "quantity": 10
+        },
+        {
+            "id": 1005,
+            "name": "Iphone 12 Pro",
+            "src": "https://images-na.ssl-images-amazon.com/images/I/71MHTD3uL4L._SL1500_.jpg",
+            "originalPrice": 100000,
+            "price": 80000,
+            "quantity": 10
+        },
+        {
+            "id": 1006,
+            "name": "Iphone XS",
+            "src": "https://images-na.ssl-images-amazon.com/images/I/71E5zB1qbIL._SX522_.jpg",
+            "originalPrice": 55000,
+            "price": 45000,
+            "quantity": 10
+        }
+    ],
+    "user": [
+        {
+            "email": "abc@xyz.com",
+            "password": "qwerty123"
+        },
+        {
+            "email": "def@xyz.com",
+            "password": "qwerty456"
+        }
+    ]
+}
